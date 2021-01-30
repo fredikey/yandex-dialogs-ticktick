@@ -1,0 +1,12 @@
+{
+  "name": "yandex-dialogs-ticktick",
+  "version": "1.0.0",
+  "description": "Yandex.Alice skill",
+  "main": "index.js",
+  "repository": "git@github.com:fredikey/yandex-dialogs-ticktick.git",
+  "author": "Victor Kozodaev <viktor7778123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yandex-dialogs-sdk": "^2.3.0"
+  }
+}
